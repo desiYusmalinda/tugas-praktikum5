@@ -161,4 +161,4 @@ Stop program background dengan utilitas kill
   
     -$ !ls
     
-    <img width="319" alt="desi6 !ls" src="https://github.com/user-attachments/assets/0961aac5-3f1a-4577-961c-0f0856b78f02" />
+   <img width="319" alt="desi6 !ls" src="https://github.com/user-attachments/assets/2b257872-de2a-42b3-84ba-db09bf94252e" />
