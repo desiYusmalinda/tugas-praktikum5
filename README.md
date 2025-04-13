@@ -1,6 +1,8 @@
+Nama   : Desi Yusmalinda
+
 kelas  : TK2B
 
-Nim    :09030182428014
+Nim    : 09030182428014
 
 
 1. Eksekusi profil
