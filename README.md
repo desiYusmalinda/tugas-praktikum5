@@ -1,5 +1,7 @@
 kelas  : TK2B
+
 Nim    :09030182428014
+
 
 1. Eksekusi profil
    
@@ -35,6 +37,7 @@ Nim    :09030182428014
     Perbedaanya : terletak pada bagaimana lingkungan pengguna dikonfigurasi setelah perpindahan, jika menggunakan su linda maka hanya berpindah ke pengguna tersebut tanpa mengubah lingkungan secara penuh, direktori kerja tetap di tempat sebelumnya dan variabel lingkungan seperti $PATH serta $HOME masih mengikuti pengguna sebelumnya, sedangkan jika menggunakan su - linda maka perpindahan dilakukan secara penuh seperti simulasi login baru, direktori kerja akan berubah ke /home/linda dan variabel lingkungan akan diperbarui sesuai dengan pengguna linda.
 
 
+
 2. Prompt String (PS)
    
   a). Edit file .bash_profile, ganti prompt PS1 dengan '>'
@@ -53,7 +56,8 @@ Nim    :09030182428014
    <img width="266" alt="desi3A" src="https://github.com/user-attachments/assets/024d360f-0b1c-48af-9c23-f3cc8a8c4001" />
 
 
-5. Bash Script
+
+4. Bash Script
 
    hasil jalankan script tersebut : -$ ./p1.sh ; ./p3.sh ; ./p2.sh
    
@@ -73,6 +77,7 @@ Nim    :09030182428014
   -$ ( ./p1.sh ; ./p3.sh ) &
   
   <img width="283" alt="desi4D" src="https://github.com/user-attachments/assets/ba919229-1b58-464e-bd8d-9b434b85aaab" />
+
 
 
 5. Jobs
@@ -114,6 +119,7 @@ Stop program background dengan utilitas kill
 -$ kill [Nomor PID]
 
 <img width="325" alt="desi5 kill" src="https://github.com/user-attachments/assets/3256beec-d362-422d-afc9-564d02ced6ce" />
+
 
 
 6. History
